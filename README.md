@@ -31,9 +31,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript icon" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 ICON"  width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="GIT icon" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github icon" width="25" height="25"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwindcss icon" width="50" height="25"/>
 
----
+
 
 ## 📊GitHub Stats
+
+---
 
 [![Hussein Abdullahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussein-miracle&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
