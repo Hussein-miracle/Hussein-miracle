@@ -2,17 +2,14 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hussein_miracle?label=follow%20me%20%40hussein_miracle%20)
 
-<!--
-**Hussein-miracle/Hussein-miracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###        �About Me
+👨   I'm an aspiring software engineer and also currently learning all i can about software development.
+👨🏻‍💻   Discovering new  technologies,techniques and building up my skills.
+🌱   I’m currently learning ReactJS , Data structures and Algorithms 
+👯‍♂️   I’m looking to collaborate on Projects,i also have interests in OpenSource.
+🎓   Studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
+💬   Ask me about CSS and  Javascript,even i'm still learning and honing my skills.
+⚡   Fun fact: 
