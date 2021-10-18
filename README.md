@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,I'm Abdullahi Hussein!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/hussein_miracle?label=follow%20me%20%40hussein_miracle%20)
 
 <!--
 **Hussein-miracle/Hussein-miracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
