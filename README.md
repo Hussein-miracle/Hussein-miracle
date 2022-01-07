@@ -5,7 +5,7 @@
 ---
 👨   I'm an Aspiring Software Engineer with High Interest in building Web Applications and also currently learning all i can about Software Development and Engineering.
 
-👨🏻‍💻   Discovering new  technologies,techniques and building up my skills.
+👨🏻‍💻   Discovering new  technologies,techniques and building up my software developer skills.
 
 
 🌱   I’m currently learning ReactJS,Data structures and Algorithms.
