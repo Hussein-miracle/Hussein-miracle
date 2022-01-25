@@ -32,6 +32,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="GIT icon" width="25" height="25" style="margin-right:15px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github icon" width="25" height="25" style="margin-right:15px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJs icon" width="25" height="25" style="margin-right:15px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="ReactJs icon" width="25" height="25" style="margin-right:15px"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss icon" width="25" height="25" style="margin-right:15px"/>
+  
 </div>
 
 
