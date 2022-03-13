@@ -8,16 +8,16 @@
 👨🏻‍💻   Discovering new  technologies,techniques and building up my software developer skills.
 
 
-🌱   I’m currently learning ReactJS,Data structures and Algorithms.
+🌱   I’m currently learning Data structures and Algorithms,Typescript,NextJs.
 
 
-👯‍♂️   I’m looking to collaborate on Projects,i also have interests in OpenSource.
+👯‍♂️   I’m looking to collaborate on Projects,i also have interest in OpenSource.
 
 
-🎓   Studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
+🎓   I'm tudying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
 
 
-💬   Ask me about CSS and  Javascript,even though i'm still learning and honing my skills.
+💬   Ask me about CSS ,Javascript and ReactJs,even though i'm still honing my skills.
 
 
 ⚡   Fun fact:  I like solving challenging problems,i love watching anime.
