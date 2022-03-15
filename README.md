@@ -3,9 +3,9 @@
 ### 😉About Me
 
 ---
-👨   I'm an Aspiring Software Engineer with High Interest in building Web Applications and also currently learning all i can about Software Development and Engineering.
+👨   I'm an Software Engineer with Interest in building Web Applications and also currently learning more about Software Development and Engineering.
 
-👨🏻‍💻   Discovering new  technologies,techniques and building up my software developer skills.
+👨🏻‍💻   Discovering new  technologies,best , safe practices and building up my software developer skills.
 
 
 🌱   I’m currently learning Data structures and Algorithms,Typescript,NextJs.
@@ -14,7 +14,7 @@
 👯‍♂️   I’m looking to collaborate on Projects,i also have interest in OpenSource.
 
 
-🎓   I'm tudying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
+🎓   I'm studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
 
 
 💬   Ask me about CSS ,Javascript and ReactJs,even though i'm still honing my skills.
@@ -36,7 +36,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss icon" width="25" height="25" margin-right="15px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 ICON"  width="25" height="25" margin-right="15px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="GIT icon" width="25" height="25" margin-right="25px"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github icon" width="25" height="25" margin-right="25px"/>
+
 
 
   
