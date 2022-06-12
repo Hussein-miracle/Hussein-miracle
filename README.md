@@ -30,7 +30,7 @@
 <div style="display:grid; grid-template-columns:repeat(auto-fit,35px)">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJs icon" width="25" height="25" margin-right="15px"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="ReactJs icon" width="25" height="25" margin-right="25px"/>
-<img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript icon" width="25" height="25" margin-right="15px"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" width="25" height="25" margin-right="15px"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="25" height="25" margin-right="25px"/> 
