@@ -17,7 +17,7 @@
 🎓   I'm studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
 
 
-💬   Ask me about CSS ,Javascript and ReactJs,even though i'm still honing my skills,let's learn together.
+💬   Ask me about CSS ,Javascript and ReactJs,VueJs.
 
 
 ⚡   Fun fact:  I like solving challenging problems,i love watching anime.
