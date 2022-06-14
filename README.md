@@ -8,7 +8,7 @@
 👨🏻‍💻   Discovering new  technologies,best , safe practices and building up my software developer skills.
 
 
-🌱   I’m currently learning Data structures and Algorithms,Typescript,NextJs.
+🌱   I’m currently learning Nodejs,Express,Data structures and Algorithms,Typescript,NextJs.
 
 
 👯‍♂️   I’m looking to collaborate on Projects,i also have interest in OpenSource.
