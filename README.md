@@ -31,6 +31,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJs icon" width="25" height="25" margin-right="15px"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="ReactJs icon" width="25" height="25" margin-right="25px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="vueJs icon" width="25" height="25" margin-right="25px"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript icon" width="25" height="25" margin-right="15px"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" width="25" height="25" margin-right="15px"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="25" height="25" margin-right="25px"/> 
