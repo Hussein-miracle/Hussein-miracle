@@ -3,21 +3,20 @@
 ### 😉About Me
 
 ---
-👨   I'm an Software Engineer with Interest in building Web Applications and also currently learning more about Software Development and Engineering.
+👨   I'm an Software Engineer with interest in building softwares and also currently learning more about Software Engineering and Machine Learning Engineering.
 
-👨🏻‍💻   Discovering new  technologies,best , safe practices and building up my software developer skills.
+👨🏻‍💻   I love discovering new  technologies,safe industry practices and building up my software engineer and Machine learning engineering skills.
 
-
-🌱   I’m currently learning Data structures and Algorithms.
+🌱   I’m currently learning to build with Rust,Angular, Wasm and i'm also improving my fullstack engineering skils.
 
 
 👯‍♂️   I’m looking to collaborate on Projects,i also have interest in OpenSource.
 
 
-🎓   I'm studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria.
+<!--- 🎓   I'm studying Chemical Engineering at the pretigious Obafemi Awolowo University,Ile-Ife,Nigeria. --->
 
 
-💬   Ask me about CSS ,Javascript and ReactJs,VueJs.
+💬   Ask me about CSS,Sass/Scss ,Javascript,Typescript,ReactJs,VueJs,Angular,Nodejs/express,MongoDb,Firebase,Gsap,SQL,Framer-Motion.
 
 
 ⚡   Fun fact:  I like solving challenging problems,i love watching anime.
