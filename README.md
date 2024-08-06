@@ -3,11 +3,11 @@
 ### 😉About Me
 
 ---
-👨   I'm an Software Engineer with interest in building softwares and also currently learning more about Software Engineering and Machine Learning Engineering.
+👨   I'm an Software Engineer Frontend with interest in building softwares and also currently learning more about Software Engineering and Machine Learning Engineering.
 
 👨🏻‍💻   I love discovering new  technologies,safe industry practices and building up my software engineer and Machine learning engineering skills.
 
-🌱   I’m currently learning to build with Rust,Angular, Wasm and i'm also improving my fullstack engineering skils.
+🌱   I’m currently learning to build with Rust andWasm and i'm also improving my fullstack engineering skils.
 
 
 👯‍♂️   I’m looking to collaborate on Projects,i also have interest in OpenSource.
@@ -19,7 +19,7 @@
 💬   Ask me about CSS,Sass/Scss ,Javascript,Typescript,ReactJs,VueJs,Angular,Nodejs/express,MongoDb,Firebase,Gsap,SQL,Framer-Motion.
 
 
-⚡   Fun fact:  I like solving challenging problems,i love watching anime.
+⚡   Fun fact:  I like solving challenging problems,i also love watching anime.
 
 
 
